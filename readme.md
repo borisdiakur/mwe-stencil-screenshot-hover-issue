@@ -1,5 +1,7 @@
 # MWE for Stencil screenshot diffing issue
 
+https://github.com/ionic-team/stencil/issues/3188
+
 The issue: It seems impossible to create a screenshot of a hover state.
 
 Observation: as soon as the screenshot is made the hover state is unset.
